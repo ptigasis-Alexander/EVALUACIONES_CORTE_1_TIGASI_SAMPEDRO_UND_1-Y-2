@@ -7,17 +7,3 @@
 
 [Evaluacion_Corte1_UN_1 y_2_IR (2).pdf](https://github.com/user-attachments/files/28985094/Evaluacion_Corte1_UN_1.y_2_IR.2.pdf)
 
-
-# Informe de la Exposicion de Heramientas para la gestion de proyectos en IR
-
-## Integrantes
-
-- Huilcapi Leon Denisses Fabiola
-- Tigasi Sampedro Paul Alexander
-- Vaca Romero David Octavio
-
-## Curso
-
-4to Software "A"
-
-[informe de exposicionIR.pdf](https://github.com/user-attachments/files/29029372/informe.de.exposicionIR.pdf)
