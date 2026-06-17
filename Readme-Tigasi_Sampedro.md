@@ -1,3 +1,4 @@
+
 # Evaluación del corte 1 Unidad 1
 
 [Evaluacion Corte_1 UND_1.pdf](https://github.com/user-attachments/files/28985027/Evaluacion.Corte_1.UND_1.pdf)
@@ -19,4 +20,4 @@
 
 4to Software "A"
 
-[Informe_de_Exposición .pdf](https://github.com/user-attachments/files/29026840/Informe_de_Exposicion.pdf)
+[informe de exposicionIR.pdf](https://github.com/user-attachments/files/29029372/informe.de.exposicionIR.pdf)
